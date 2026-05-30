@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: lbarba-reancont
+    Linux system name: lbarba-reancont-Mint
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]
+    VS Code version:  1.118.1 646
+    OS Platform: linux
+    Working Directory: /home/lbarba-reancont/ops445/lab4
+    Start at: Sat May 30 18:35:36 2026
+=================================================================
